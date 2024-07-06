@@ -1,0 +1,5 @@
+com/moinak/spring_ai_playground/entity/OllamaResponseEntity.class
+com/moinak/spring_ai_playground/controller/OllamaController.class
+com/moinak/spring_ai_playground/entity/OllamaPromptEntity.class
+com/moinak/spring_ai_playground/SpringAiPlaygroundApplication.class
+com/moinak/spring_ai_playground/service/OllamaService.class

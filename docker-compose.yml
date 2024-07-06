@@ -1,8 +1,18 @@
-version: '3.8'
 services:
     ollama:
         hostname: ollama
         container_name: ollama
         image: ollama/ollama
         ports:
-          - "11434:11434"
+            -   "11434:11434"
+        volumes:
+            -   vol-ollama-llama2:/root/.ollama
+    spring-ai-playground-app:
+        hostname: spring-ai-playground-app
+        container_name: app
+        image: moinak-spring-ai-playground:0.1
+        ports:
+            - "8080:8080"
+
+volumes:
+    vol-ollama-llama2:

@@ -1,0 +1,5 @@
+/Users/moinak/Documents/Code/Java/spring-ai-playground/src/main/java/com/moinak/spring_ai_playground/SpringAiPlaygroundApplication.java
+/Users/moinak/Documents/Code/Java/spring-ai-playground/src/main/java/com/moinak/spring_ai_playground/controller/OllamaController.java
+/Users/moinak/Documents/Code/Java/spring-ai-playground/src/main/java/com/moinak/spring_ai_playground/entity/OllamaPromptEntity.java
+/Users/moinak/Documents/Code/Java/spring-ai-playground/src/main/java/com/moinak/spring_ai_playground/entity/OllamaResponseEntity.java
+/Users/moinak/Documents/Code/Java/spring-ai-playground/src/main/java/com/moinak/spring_ai_playground/service/OllamaService.java
